@@ -147,4 +147,4 @@ Data Analyst (Entry Level)
 1.Dashboard: Open the dashboard file in Logistics-Performance-and-Profitability-Analysis folder to interact with the visualization
 
 # Project Gallery
-![alt text](https://github.com/udeme054/Logistics-Performance-and-Profitability-Analysis/blob/c63fa939e54b67c343d2e1c803348174323a60f2/Capstone%20project.jpeg)
+![alt text](https://github.com/udeme054/Logistics-Performance-and-Profitability-Analysis/blob/9ce5d978281c0dc31ed5b6e23de074047643ed8c/Capstone%20project.jpeg)
