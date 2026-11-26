@@ -1,6 +1,6 @@
 # Logistics Performance and Profitability Analysis (Power BI)
 
-![Executive Overview Dashboard](dashboard.jpeg)
+![Executive Overview Dashboard](dashboard.jpeg) 
 
 ## Table of Contents
 1. [Project Title](#logistics-performance-and-profitability-analysis-power-bi)
