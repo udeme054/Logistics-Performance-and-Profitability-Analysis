@@ -1,4 +1,4 @@
-# Logistics Performance and Profitability Analysis (Power BI)
+# Logistics Performance and Profitability Analysis
 
 ## Table of Contents
 1. [Project Title](#logistics-performance-and-profitability-analysis-power-bi)
@@ -145,3 +145,6 @@ Data Analyst (Entry Level)
 
 ## How to run/view the project
 1.Dashboard: Open the dashboard file in Logistics-Performance-and-Profitability-Analysis folder to interact with the visualization
+
+# Project Gallery
+![alt text](https://github.com/udeme054/Logistics-Performance-and-Profitability-Analysis/blob/c63fa939e54b67c343d2e1c803348174323a60f2/Capstone%20project.jpeg)
